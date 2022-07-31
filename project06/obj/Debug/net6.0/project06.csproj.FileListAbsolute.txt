@@ -1,0 +1,15 @@
+D:\Fstep\project06\bin\Debug\net6.0\project06.exe
+D:\Fstep\project06\bin\Debug\net6.0\project06.deps.json
+D:\Fstep\project06\bin\Debug\net6.0\project06.runtimeconfig.json
+D:\Fstep\project06\bin\Debug\net6.0\project06.dll
+D:\Fstep\project06\bin\Debug\net6.0\project06.pdb
+D:\Fstep\project06\obj\Debug\net6.0\project06.csproj.AssemblyReference.cache
+D:\Fstep\project06\obj\Debug\net6.0\project06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fstep\project06\obj\Debug\net6.0\project06.AssemblyInfoInputs.cache
+D:\Fstep\project06\obj\Debug\net6.0\project06.AssemblyInfo.cs
+D:\Fstep\project06\obj\Debug\net6.0\project06.csproj.CoreCompileInputs.cache
+D:\Fstep\project06\obj\Debug\net6.0\project06.dll
+D:\Fstep\project06\obj\Debug\net6.0\refint\project06.dll
+D:\Fstep\project06\obj\Debug\net6.0\project06.pdb
+D:\Fstep\project06\obj\Debug\net6.0\project06.genruntimeconfig.cache
+D:\Fstep\project06\obj\Debug\net6.0\ref\project06.dll
